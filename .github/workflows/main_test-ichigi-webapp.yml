@@ -7,7 +7,7 @@ name: Build and deploy Python app to Azure Web App - test-ichigi-webapp
 on:
   push:
     branches:
-      - main
+      - main,test001
   workflow_dispatch:
 
 jobs:
