@@ -12,6 +12,7 @@
    💡Note: You can configure the authentication provider to your identity solution using [NextAuth providers](https://next-auth.js.org/providers/)
 
 # 👋🏻 Introduction
+a
 
 AzureChatGPT is built with the following technologies.
 
